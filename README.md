@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <h4>Hello! I'm Devin 👋</h4>
+  <h4>And this is my dog on his birthday ...</h4>
+  <img src="https://github.com/user-attachments/assets/49185178-1cd9-4026-b53b-dd7a86c2191a" width="400" alt="kobi">
+</div>
+
 
 <!--
 **devin-bushey/devin-bushey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
